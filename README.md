@@ -1,4 +1,4 @@
-# 🏄‍♂️ Breaker
+# 🪓 Breaker
 
 **`CTF player`**
 
