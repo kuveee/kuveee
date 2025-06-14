@@ -1,6 +1,6 @@
 # 🏄‍♂️ Forrest Knight
 
-**`Software Developer (Systems / Scripting)`**
+**`CTF player (pwn)`**
 
 I'm a developer focused on solving real-world problems through code. My core interests lie in systems programming with C/C++, and creating powerful automation scripts with Python and Bash. All my projects are built from the ground up, from planning and designing to implementing efficient and robust solutions.
 
