@@ -1,8 +1,8 @@
 # 🏄‍♂️ Forrest Knight
 
-**`CTF player (pwn)`**
+**`CTF player`**
 
-I'm a developer focused on solving real-world problems through code. My core interests lie in systems programming with C/C++, and creating powerful automation scripts with Python and Bash. All my projects are built from the ground up, from planning and designing to implementing efficient and robust solutions.
+As a passionate CTF player, I thrive on diving deep into the world of low-level systems. My core passion lies in the intricate dance of Pwn and Reverse Engineering, where I enjoy deconstructing binaries and turning vulnerabilities into victories.
 
 <p align="left">
     <a href="https://github.com/[YOUR_USERNAME]?tab=followers">
